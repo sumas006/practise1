@@ -1,4 +1,4 @@
-value = "Enter yes or no"
+value = input("Enter yes or no: ")
 if value == 'yes':
     print("eat samosa")
 else:
